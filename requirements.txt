@@ -1,0 +1,10 @@
+jupyter 
+matplotlib 
+ipympl 
+tqdm 
+jupyterlab
+opencv-python
+opencv-contrib-python
+numpy==1.19.3
+scikit-image
+
